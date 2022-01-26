@@ -1,0 +1,8 @@
+site_name: InfoSecDev
+site_url: http://infosecdev.me/
+nav:
+  - Home: index.md
+  - Architecting a Static Malware Analysis Automation Platform: statically.md
+  - About: about.md
+  
+theme: material
